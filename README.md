@@ -1,5 +1,8 @@
 # Node.js Authentication Template
 
+![Last updated: 2026-07-03](https://img.shields.io/badge/updated-2026-07-03-blue)
+
+
 A robust, production-ready authentication boilerlate built with Node.js, Express, MongoDB, and Passport.js. This template is designed to help you quickly bootstrap your backend applications with a secure, highly modular local and third-party authentication architecture.
 
 ## 🚀 Features
